@@ -48,16 +48,5 @@ Este repositório contém materiais de estudo, anotações e exemplos práticos 
  ┗ 📜 README.md
 ```
 
-## 🚀 Como Contribuir
-Se quiser contribuir com materiais, correções ou novos exemplos, fique à vontade para abrir um **Pull Request** ou uma **Issue**.
-
-## 📌 Próximos Passos
-- Praticar modelagem com BPMN
-- Automatizar fluxos com ferramentas de BPM
-- Criar diagramas no Draw.io para facilitar a visualização dos processos
-- Aplicar BPM junto com metodologias ágeis e Lean
-
-**Vamos juntos melhorar e otimizar processos! 🚀**
-
 
 
