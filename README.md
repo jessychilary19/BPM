@@ -41,8 +41,6 @@ Este repositório contém materiais de estudo, anotações e exemplos práticos 
 ```
 📦 BPM-Study-Material
  ┣ 📁 Modelagem BPMN
- ┣ 📁 Estudos de Caso
- ┣ 📁 Ferramentas e Scripts
  ┣ 📁 Automação de Processos
  ┣ 📁 Diagramas (Desenhos BPMN em Draw.io)
  ┗ 📜 README.md
